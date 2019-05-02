@@ -2,6 +2,7 @@
 A hand made general purpose chatbot
 
 Aim
+
 . to develop a general purpose trainable chatbot, which can be trained from conversations
 . (priority 2) to give it speech recognition
 
